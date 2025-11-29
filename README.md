@@ -10,7 +10,6 @@ Before starting, ensure you have the following installed on your Terraform machi
 Terraform ≥ 1.0
 AWS CLI
 kubectl
-Helm ≥ v3
 AWS IAM credentials configured
 aws configure
 
