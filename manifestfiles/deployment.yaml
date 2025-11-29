@@ -19,7 +19,7 @@ spec:
           image: nginx:stable
           ports:
             - containerPort: 80
-          # optional small resources to avoid OOM on t3.micro
+          # to avoid OOM on t3.micro
           resources:
             requests:
               cpu: "100m"
